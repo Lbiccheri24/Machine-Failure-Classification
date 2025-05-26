@@ -1,5 +1,5 @@
 
-# Machine Failure Prediction
+# Machine Failure Classification
 
 This notebook uses the dataset from [Kaggle: Machine Failure Prediction](https://www.kaggle.com/code/muhammadfaizan65/machine-failure-prediction-eda-modeling) for predicting machine failures.
 
